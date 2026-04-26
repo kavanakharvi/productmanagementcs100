@@ -8,3 +8,5 @@ o/p p3 : https://github.com/user-attachments/assets/8479ae38-b4df-483a-a1d0-5196
 o/p p4 : https://github.com/user-attachments/assets/f5141839-84d8-4605-8f9c-572504ef6aa5
 
 o/p p5 : https://github.com/user-attachments/assets/7f8226e9-1667-4709-8346-f14c4c919155
+
+o/p p6 : https://github.com/user-attachments/assets/7e5ac541-2b1b-4841-b8db-0f8f8059c24a
